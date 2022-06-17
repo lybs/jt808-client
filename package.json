@@ -53,7 +53,7 @@
     }
   },
   "dependencies": {
-    "electron": "^4.0.1",
+    "electron": "^15.5.5",
     "element-ui": "^2.4.11",
     "moment": "^2.23.0",
     "vue": "^2.5.16",
